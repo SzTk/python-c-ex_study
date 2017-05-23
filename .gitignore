@@ -95,3 +95,6 @@ ENV/
 
 # mkdocs documentation
 /site
+
+# build file
+example.so.dSYM/
